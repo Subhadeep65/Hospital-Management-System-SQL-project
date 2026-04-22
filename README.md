@@ -23,8 +23,8 @@ The system includes the following tables:
 ---
 
 ## 📊 ER Diagram
+<img width="1253" height="846" alt="ER digram or Hospital_managemant_system png" src="https://github.com/user-attachments/assets/c91e419c-7a8f-41c7-b028-a676a5c53dc2" />
 
-![ER Diagram](Hospital_managemant_system.png)
 
 ---
 
